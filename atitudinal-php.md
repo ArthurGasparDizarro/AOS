@@ -15,3 +15,15 @@ Exercicioa de PHP -atitudinal-
   for($i=0;$i<10;$i++){
       echo "$numeros[$i] é o numero $i \n";
 }
+
+3)<?php
+
+
+$frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
+
+
+   for($i=1;$i<6;$i++){
+      echo  " $i.  $frutas[$i] \n";
+}
+
+?>
