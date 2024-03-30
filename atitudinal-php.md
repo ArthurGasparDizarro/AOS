@@ -1,19 +1,12 @@
 Exercicioa de PHP -atitudinal-
 
-1)                                                                                            
+1)                                                                                          
  $numero=2;     
- 
- function sinal($variavel){   
- 
+ function sinal($variavel){  
     if($variavel < 0){  
-    
    echo " \n O numero " .$variavel." é Negativo";    
-   
-   
     }else{
-    
     echo " \n O numero " .$variavel." é positivo";
-    
     }
 }
      echo sinal($numero);
