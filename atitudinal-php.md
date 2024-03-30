@@ -3,8 +3,10 @@ Exercicioa de PHP -atitudinal-
 1)                                                                                            
  $numero=2;     
  
- function sinal($variavel){                         
-    if($variavel < 0){                              
+ function sinal($variavel){   
+ 
+    if($variavel < 0){  
+    
    echo " \n O numero " .$variavel." é Negativo";    
    
    
