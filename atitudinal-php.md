@@ -16,14 +16,12 @@ Exercicioa de PHP -atitudinal-
       echo "$numeros[$i] é o numero $i \n";
 }
 
-3)<?php
-
-
-$frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
+3)  $frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
 
 
    for($i=1;$i<6;$i++){
+   \n
       echo  " $i.  $frutas[$i] \n";
 }
 
-?>
+
