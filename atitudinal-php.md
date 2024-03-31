@@ -9,9 +9,9 @@
      echo " \n O numero " .$variavel." é positivo";
      }
    }
-  echo sinal($numero);
+      echo sinal($numero);
 
-2)<?php
+## 2)<?php
  $numeros=[1,2,3,4,5,6,7,8,9,10];                                                                                                                                                                                                                       
 
   for($i=0;$i<10;$i++)  {
