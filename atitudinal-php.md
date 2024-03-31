@@ -27,7 +27,7 @@
       echo "$numeros[$i] é o numero $i \n";
 }
 <?php
-
+```
 
 3)  <?php
 $frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
