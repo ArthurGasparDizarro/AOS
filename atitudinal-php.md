@@ -1,6 +1,7 @@
 ## Exercicioa de PHP -atitudinal-
 
 ## <?php
+   ```
     1) $numero=2;     
         function sinal($variavel){  
      if($variavel < 0){  
