@@ -30,6 +30,7 @@
 ```
 
 ## <?php
+```
 3) $frutas=['Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
 
 
@@ -40,9 +41,23 @@
 
 ?>
 ```
-
 ## <?php
 ```
+4) $dados = [
+        0 => "Nome: Arthur Dizarro",
+        1 => "Idade: 16",
+        2 => "Cidade: Campinas",
+        3 => "Profissão: Controle de Abastecimnetos"
+        ];
+    for($i=0;$i<4;$i++){
+        echo "{$dados[$i]}\n";
+    }
+  
+?>
+```
+## <?php
+```
+
 5) $dados = [
         0 => "Arthur Gaspar Dizarro",
         1 => "Campinas",
