@@ -29,18 +29,20 @@
 <?php
 ```
 
-3)  <?php
-$frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
+## <?php
+3) $frutas=['Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
 
 
-   for($i=1;$i<6;$i++){
-   \n
-      echo  " $i.  $frutas[$i] \n";
+   for($i=0;$i<5;$i++){
+   
+      echo ($i + 1) . ". " . $frutas[$i] . "\n";
 }
-<?php
+
+?>
 ```
 
-<?php
+## <?php
+```
 5) $dados = [
         0 => "Arthur Gaspar Dizarro",
         1 => "Campinas",
@@ -85,4 +87,5 @@ $frutas=['puleium','Granadilha','Lichia','Longan','Mangostao','Cherimoia'];
     
     
 ?>
+```
 
